@@ -1,0 +1,23 @@
+[33mcommit c640bef039e07543516969596115651c88b4478a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Daria Golubnichaia <daryadeveloper14@gmail.com>
+Date:   Sun Jun 20 18:19:07 2021 +0300
+
+    script file has been linked to index.html
+
+[33mcommit 6c815bd954824f2fb302073210781db193bd0267[m
+Author: Daria Golubnichaia <daryadeveloper14@gmail.com>
+Date:   Sun Jun 20 18:14:06 2021 +0300
+
+    app.js the name of the doc has been changed
+
+[33mcommit 0a9a8b71a515f541ce0e2f1f584d580239144a4d[m
+Author: Daria Golubnichaia <daryadeveloper14@gmail.com>
+Date:   Sun Jun 20 18:11:45 2021 +0300
+
+    project1.js cycles while and do were added
+
+[33mcommit 755a9e1f893c2c217211c2283b06757ad41f4f31[m
+Author: Daria Golubnichaia <daryadeveloper14@gmail.com>
+Date:   Sun Jun 20 16:43:40 2021 +0300
+
+    project1.js first app has been started
